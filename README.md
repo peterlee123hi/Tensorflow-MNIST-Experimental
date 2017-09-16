@@ -1,4 +1,6 @@
-# TensorFlow CNN Tutorial on MNIST
+# TensorFlow Experiemnts on MNIST
 
-Code from the convolutional neural network tutorial
-- CNN for MNIST
+Basics
+- Hyperparameters
+- Optimization Functions
+- Neural Network Architecture
